@@ -12,7 +12,7 @@
 
 ![微信图片_20231220041806](https://github.com/zenankang/-/assets/38875641/af0ab1db-3a1e-4bc9-899e-144a9b1a9713)
 
-若遇到输入不合法或无解，程序耶会回到初始状态。
+若遇到输入不合法或无解，程序会回到初始状态。
 
 ![image](https://github.com/zenankang/-/assets/38875641/390a5f6e-d714-4db6-98c9-808ae9bb28de)
 
