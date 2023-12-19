@@ -4,7 +4,7 @@
 
 # 使用方法
 
-下载babaohe.exe程序并打开。
+下载babaohe.exe程序并打开，下载地址：https://github.com/zenankang/babaohe/releases/download/babaohe/babaohe.exe
 
 根据提示输入游戏初始状态，即可计算出解决方案并进行低级可视化展示。
 
